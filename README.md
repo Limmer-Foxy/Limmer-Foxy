@@ -4,7 +4,7 @@
     <div align="center">
       <h1>hi, i'm asy.</h1>
       <img src=beach.jpg>
-      <img width=50%>
+      <img width=25%>
       <h4>i'm a seeker of mathematical elegance, where numbers dance in the quiet rhythm of the universe.<br />
         i immerse myself in the grandeur of nature's wonders, finding solace in the delicate weave of light and leaf.<br />
         on two wheels, i journey through the world with a heart that beats in sync with the open road;<br/>
