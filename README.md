@@ -2,7 +2,7 @@
   <head></head>
   <body>
     <div align="center">
-      <h1>hi, i'm <a href="https://asyi.carrd.co/">asy</a>.</h1>
+      <h1>hi, i'm <a href="https://limmer-foxy.github.io/">asy</a>.</h1>
       <img src=beach.jpg width="80%">
       <h4>i'm a seeker of mathematical elegance, where numbers dance in the quiet rhythm of the universe.<br />
         i immerse myself in the grandeur of nature's wonders, finding solace in the delicate weave of light and leaf.<br />
