@@ -11,11 +11,9 @@
       <h4>🌿 i immerse myself in the grandeur of nature's wonders, finding solace in the delicate weave of light and leaf<br/></h4>
       <h5>⛰︎ ོ most recently: hiked 铜鼓岭<br/><br/></h5>
       <h4>🚲 on two wheels, i journey through the world with a heart that beats in sync with the open road<br/><br/></h4>
-      <h4>📖 in the pages of books, i wander through realms of thought, where every word is a doorway to new horizons.<br/></h4>
+      <h4>📖 in the pages of books, i wander through realms of thought, where every word is a doorway to new horizons<br/></h4>
       <h5>🖇️ most recently: reading <a href="https://www.goodreads.com/book/show/67658761-the-turnglass">Turnglass by Gareth Rubin</a><br/><br/></h5>
       <h4>📸 capturing fleeting moments where light and shadow converge to tell stories beyond words<br/></h4>
       <h5>[ ◉¯] view my captures <a href="https://vsco.co/limmer-foxy/gallery">here</a> | photos taken on the <a href="https://global.canon/en/c-museum/product/dcc537.html">Canon PowerShot A460</a></h5>
   </body>
 </html>
-
-
