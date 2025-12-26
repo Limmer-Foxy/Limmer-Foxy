@@ -3,8 +3,8 @@
   <body>
     <div align="center">
       <h1>hi, i'm <a href="https://limmer-foxy.github.io/">asy</a>.</h1>
-    </div>
       <img src=beach.jpg width="80%">
+    </div>
       <h2>about me</h2>
       <h4>🔢 a seeker of mathematical elegance, where numbers dance in the quiet rhythm of the universe<br /></h4>
       <h5>✎ᝰ currently learning about octal numbers<br /><br /></h5>
@@ -15,3 +15,4 @@
       <h5>🖇️ most recently: reading Turnglass by Gareth Rubin</h5>
   </body>
 </html>
+
