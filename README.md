@@ -3,7 +3,7 @@
   <body>
     <div align="center">
       <h1>hi, i'm <a href="https://limmer-foxy.github.io/">asy</a>.</h1>
-      <img src=beach.jpg width="80%">
+      <img src=beach.jpg width="70%">
     </div>
       <h2>about me</h2>
       <h4>🔢 a seeker of mathematical elegance, where numbers dance in the quiet rhythm of the universe<br/></h4>
@@ -17,4 +17,5 @@
       <h5>[ ◉¯] view my captures <a href="https://vsco.co/limmer-foxy/gallery">here</a> | photos taken on the <a href="https://global.canon/en/c-museum/product/dcc537.html">Canon PowerShot A460</a></h5>
   </body>
 </html>
+
 
